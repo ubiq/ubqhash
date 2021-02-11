@@ -41,8 +41,8 @@ setup(
     author_email="matthew.wampler.doty@gmail.com",
     license='GPL',
     version='0.1.23',
-    url='https://github.com/ethereum/ubqhash',
-    download_url='https://github.com/ethereum/ubqhash/tarball/v23',
+    url='https://github.com/ubiq/ubqhash',
+    download_url='https://github.com/ubiq/ubqhash/tarball/v23',
     description=('Python wrappers for ubqhash, the ethereum proof of work'
                  'hashing function'),
     ext_modules=[pyubqhash],
