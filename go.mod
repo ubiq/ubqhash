@@ -2,7 +2,7 @@ module github.com/ubiq/ubqhash
 
 go 1.17
 
-require github.com/ubiq/go-ubiq/v6 v6.0.0
+require github.com/ubiq/go-ubiq/v7 v7.0.0
 
 require (
 	github.com/btcsuite/btcd v0.20.1-beta // indirect

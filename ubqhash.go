@@ -40,9 +40,9 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/ubiq/go-ubiq/v6/common"
-	"github.com/ubiq/go-ubiq/v6/crypto"
-	"github.com/ubiq/go-ubiq/v6/log"
+	"github.com/ubiq/go-ubiq/v7/common"
+	"github.com/ubiq/go-ubiq/v7/crypto"
+	"github.com/ubiq/go-ubiq/v7/log"
 )
 
 var (
